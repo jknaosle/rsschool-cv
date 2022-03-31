@@ -1,2 +1,1 @@
-# rsschool-cv
-task
+https://jknaosle.github.io/rsschool-cv/cv
