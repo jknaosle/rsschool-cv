@@ -7,7 +7,7 @@
 * __Discord:__ [Evgeny (@jknaosle)](https://discordapp.com/users/178460283507965952/)
 ****
 ## About Me:
-(Тут будет информация об о мне на английском языке)
+I am 27 years old and I work as a surveyor. I am responsible and I like working in a team. I hope that this course will give me the missing knowledge to work in IT
 ****
 ## Skills:
 * __JS__
@@ -31,7 +31,7 @@ sum +=arr[i+1]
 ```
 ****
 ## Experience 
-https://jknaosle.github.io/rsschool-cv/
+[MY CV](https://jknaosle.github.io/rsschool-cv/)
 ## Education
 * __University:__ Siberian State University of Geosystems and Technologies, Applied Geodesy, Mining engineer.
 * __Courses:__ 
