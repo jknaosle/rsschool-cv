@@ -5,17 +5,17 @@
 * __GitHub:__ [jknaosle](https://github.com/jknaosle) 
 * __Telegram:__ [Evgeny Pirozhnikov](https://t.me/jknaosle)
 * __Discord:__ [Evgeny (@jknaosle)](https://discordapp.com/users/178460283507965952/)
-****
+
 ## About Me:
 I am 27 years old and I work as a surveyor. I am responsible and I like working in a team. I hope that this course will give me the missing knowledge to work in IT
-****
+
 ## Skills:
 * __JS__
 * __Git__
 * __HTML5 & CSS3__
 * __SCSS__
 * __basic React__
-****
+
 ## Code example:
 __Perimeter of squares in a rectangle from CODEWARS:__ The function perimeter has for parameter n where n + 1 is the number of squares (they are numbered from 0 to n) and returns the total perimeter of all the squares.
 ```
