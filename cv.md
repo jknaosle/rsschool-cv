@@ -38,6 +38,7 @@ sum +=arr[i+1]
     * [HTML Academy](https://htmlacademy.ru/) (JavaScript lvl1, HTML & CSS lvl1, HTML & CSS lvl2)
 	 * [JavaScript](https://learn.javascript.ru/) learn.javascript
 	 * [React](https://ru.reactjs.org/docs/getting-started.html)
+___
 ## Language:
 * __English__ - __A1__ (__A2__ in process…)
 * __Russian__ - native speaker.
