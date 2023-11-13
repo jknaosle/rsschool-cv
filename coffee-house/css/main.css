@@ -1,4 +1,5 @@
 /* Reset and base styles  */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
 * {
   padding: 0px;
   margin: 0px;
@@ -83,4 +84,80 @@ label {
 
 legend {
   display: block;
+}
+
+@font-face {
+  font-family: "Inter Semi Bold Italic";
+  src: url("../fonts/inter_semi_bold_italic.eot");
+  /* IE 9 Compatibility Mode */
+  src: url("../fonts/inter_semi_bold_italic.eot?#iefix") format("embedded-opentype"), url("../fonts/inter_semi_bold_italic.woff2") format("woff2"), url("../fonts/inter_semi_bold_italic.woff") format("woff"), url("../fonts/inter_semi_bold_italic.ttf") format("truetype"), url("../fonts/inter_semi_bold_italic.svg#inter_semi_bold_italic") format("svg");
+  /* Chrome < 4, Legacy iOS */
+}
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #E1D4C9;
+  color: #403F3D;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 105%;
+  color: #E1D4C9;
+}
+h1 b {
+  color: #B0907A;
+  font-family: "Inter Semi Bold Italic";
+}
+
+h2 {
+  font-size: 60px;
+}
+
+a {
+  color: #403F3D;
+  transition: color 0.3s ease-in-out;
+}
+a:hover {
+  color: #B0907A;
+}
+
+.container {
+  width: 1440px;
+  padding: 0 40px;
+  margin: 0 auto;
+}
+
+.header {
+  min-height: 60px;
+  padding: 20px 0;
+}
+.header__top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-nav {
+  font-size: 16px;
+}
+
+.nav-list {
+  display: flex;
+  -moz-column-gap: 40px;
+       column-gap: 40px;
+}
+
+.hero {
+  min-height: 644px;
+}
+
+.hero-container {
+  height: auto;
+  background: url("./../img/img-hero.jpg");
+  min-height: 644px;
+  border-radius: 40px;
 }
